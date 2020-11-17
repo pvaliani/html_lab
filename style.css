@@ -1,0 +1,19 @@
+body > header {
+    background-color: dodgerblue;
+    color: white;
+
+}
+
+body > header > nav > ul > li {
+    list-style: none;
+}
+
+body > header > nav > ul > li > a {
+    color: white;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
